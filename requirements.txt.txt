@@ -1,0 +1,3 @@
+# CyberSafe uses Python's standard library only.
+# tkinter is included with most standard Python installations.
+# No pip packages are required.
